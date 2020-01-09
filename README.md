@@ -1,6 +1,6 @@
 ## Primeiro projeto com ReactJS - Bootcamp - Rocketseat
 
-- Projeto consumindo a API do github.
+- Projeto consumindo a API do github
 
 ## Configuração
 
